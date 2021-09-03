@@ -8,7 +8,8 @@ import java.util.Random;
 public class MyAnswers {
 
     public String[]mAnswers ={
-            "Apple","Oranges","Mango","Banana","Strawberry","Apricot", "Malta",
+            "Apple","Oranges","Mango","Banana","Strawberry",
+            "Apricot", "Malta","Strawberry", "Guava"
 
     };
 

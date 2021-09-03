@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">QA</string>
     <string name="click_fruits_name">Click Fruits Name</string>
+    <string name="fruits_name">Fruits Name</string>
 </resources>
